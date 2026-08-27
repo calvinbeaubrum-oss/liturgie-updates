@@ -1,0 +1,13 @@
+{
+ "schema": "versions v1",
+ "versions": [
+  {
+   "versionCode": 88,
+   "versionName": "2.12.0",
+   "apkUrl": "https://github.com/calvinbeaubrum-oss/liturgie-updates/releases/download/v2.12.0-88/liturgie-2.12.0-88.apk",
+   "sha256": "34d0c21d60357eb9e44fa12843039332fbd624e6d8cb8371a64cb7424b9d994d",
+   "date": "2026-08-22",
+   "notes": "Version de base — fork AELF amélioré : bréviaire, messe avec déroulé du missel, Bibles multiples, Cabinet."
+  }
+ ]
+}
