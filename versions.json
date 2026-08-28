@@ -2,6 +2,14 @@
  "schema": "versions v1",
  "versions": [
   {
+   "versionCode": 89,
+   "versionName": "2.13.0",
+   "apkUrl": "https://github.com/calvinbeaubrum-oss/liturgie-updates/releases/download/v2.13.0-89/liturgie-2.13.0-89.apk",
+   "sha256": "7349c57181714f0b9b796a10dd1e9da10dffe94f90ddf8fe3f2525d1cc37aae6",
+   "date": "2026-08-27",
+   "notes": "— Messe : missel complet plein écran (Introït → Envoi), lectures AELF au milieu\n— Chrome noir AMOLED, rouge liturgique, icônes vectorielles, edge-to-edge\n— Paramètres : Choisir la version de votre choix\n— Paramètres : Vos retours (j'aime / déteste / améliorer / corriger)\n— Office de l'heure conforme + swipe de jour\n— Lecteur interne PDF et ePub (Cabinet), TTS sur ePub\n— Boutons IA : Explication, Homélie, Noter l'évangile\n— Assistant : priorité Mémoire/Bibliothèque + option source absolue\n— Bibles : import des 16 traductions au premier lancement\n— Missel : textes de l'ordinaire restaurés (OCR)\n— Nox Studio — Développé par Promethe (junsam713@gmail.com)"
+  },
+  {
    "versionCode": 88,
    "versionName": "2.12.0",
    "apkUrl": "https://github.com/calvinbeaubrum-oss/liturgie-updates/releases/download/v2.12.0-88/liturgie-2.12.0-88.apk",
