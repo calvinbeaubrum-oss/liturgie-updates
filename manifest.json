@@ -1,8 +1,8 @@
 {
- "versionCode": 90,
- "versionName": "2.14.0",
- "apkUrl": "https://github.com/calvinbeaubrum-oss/liturgie-updates/releases/download/v2.14.0-90/liturgie-2.14.0-90.apk",
- "sha256": "9ae19d124cdadc62027318ddfa03ae0baa1a12cdbf9ba0d89619d98a35020017",
+ "versionCode": 91,
+ "versionName": "2.14.1",
+ "apkUrl": "https://github.com/calvinbeaubrum-oss/liturgie-updates/releases/download/v2.14.1-91/liturgie-2.14.1-91.apk",
+ "sha256": "e4d2aa922ed5c32f0663ae73dcd5a96f74a5c9959d3aff90997e63fa264230de",
  "date": "2026-08-31",
- "notes": "Modernisation 2026 : bréviaire en un seul défilement vertical fluide, correction du bréviaire qui disparaissait après la messe, nouvelles fenêtres modernes, mini-lecteur vocal discret en bas d'écran, bibliothèque fiable (PDF/ePub importés même depuis Drive, lecture par chapitres avec images), assistant IA activable en 1 minute, réglages simplifiés (avis par e-mail)."
+ "notes": "Correction du canal de mise à jour : les téléphones qui pointaient encore vers l'ancien dépôt (HTTP 404) sont remis sur le bon canal automatiquement, avec miroir de secours. Toutes les nouveautés de la 2.14.0 incluses : bréviaire vertical, correction du bug Messe/Bréviaire, fenêtres modernes, mini-lecteur vocal, bibliothèque PDF/ePub fiable, assistant activable en 1 minute."
 }
