@@ -2,6 +2,14 @@
  "schema": "versions v1",
  "versions": [
   {
+   "versionCode": 90,
+   "versionName": "2.14.0",
+   "apkUrl": "https://github.com/calvinbeaubrum-oss/liturgie-updates/releases/download/v2.14.0-90/liturgie-2.14.0-90.apk",
+   "sha256": "9ae19d124cdadc62027318ddfa03ae0baa1a12cdbf9ba0d89619d98a35020017",
+   "date": "2026-08-31",
+   "notes": "Modernisation 2026 : bréviaire en un seul défilement vertical fluide, correction du bréviaire qui disparaissait après la messe, nouvelles fenêtres modernes, mini-lecteur vocal discret en bas d'écran, bibliothèque fiable (PDF/ePub importés même depuis Drive, lecture par chapitres avec images), assistant IA activable en 1 minute, réglages simplifiés (avis par e-mail)."
+  },
+  {
    "versionCode": 89,
    "versionName": "2.13.0",
    "apkUrl": "https://github.com/calvinbeaubrum-oss/liturgie-updates/releases/download/v2.13.0-89/liturgie-2.13.0-89.apk",
