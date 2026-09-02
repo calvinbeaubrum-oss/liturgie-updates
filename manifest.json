@@ -1,8 +1,8 @@
 {
- "versionCode": 92,
- "versionName": "2.15.0",
- "apkUrl": "https://github.com/calvinbeaubrum-oss/liturgie-updates/releases/download/v2.15.0-92/liturgie-2.15.0-92.apk",
- "sha256": "0944d5cef367dad970de81295d03328d52667bc35036198428a13265195bb8f5",
- "date": "2026-09-01",
- "notes": "L'app devient vivante : barre du haut flottante en verre (calendrier toujours visible), texte du jour qui défile automatiquement, pilule plus compacte avec icônes redessinées et lueur liturgique, masquage des barres au défilement, lecture à voix haute réparée avec messages clairs, Réglages réorganisés en bulles par domaine avec police et interligne réglables, Bible en panneau de verre, e-mail qui ouvre Gmail, fin de page dégagée sous la pilule."
+ "versionCode": 91,
+ "versionName": "2.14.1",
+ "apkUrl": "https://github.com/calvinbeaubrum-oss/liturgie-updates/releases/download/v2.14.1-91/liturgie-2.14.1-91.apk",
+ "sha256": "e4d2aa922ed5c32f0663ae73dcd5a96f74a5c9959d3aff90997e63fa264230de",
+ "date": "2026-08-31",
+ "notes": "Correction du canal de mise à jour : les téléphones qui pointaient encore vers l'ancien dépôt (HTTP 404) sont remis sur le bon canal automatiquement, avec miroir de secours. Toutes les nouveautés de la 2.14.0 incluses : bréviaire vertical, correction du bug Messe/Bréviaire, fenêtres modernes, mini-lecteur vocal, bibliothèque PDF/ePub fiable, assistant activable en 1 minute."
 }
